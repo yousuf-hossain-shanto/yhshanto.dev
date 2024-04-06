@@ -17,8 +17,6 @@ seo:
 
 ![Next Js and brain icon with the post title on seashell colored background](/assets/unveiling-the-mechanics-behind-nextjs-path-matching/cover.png)
 
----
-
 In the rapidly evolving landscape of web development, Next.js has emerged as a beacon for developers seeking to build highly dynamic, scalable, and efficient web applications. One of Next.js's most powerful features is its middleware and rewrite capabilities, which allow developers to manipulate requests and responses before they reach the application or reroute them entirely based on specific URL paths. This guide aims to demystify the inner workings of Next.js's path matching logic, shedding light on the utility functions that make this possible and how developers can harness them for more sophisticated routing and middleware logic.
 
 ### Understanding Middleware and Rewrites in Next.js
