@@ -4,40 +4,36 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/hero.jpg'
+    alt: A person sitting at a desk in a countryside restaurent down to a warm light
 ---
 
-![Alt text for image](/about.jpeg)
+![A person sitting at a desk in a countryside restaurent down to a warm light](/hero.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Hello there! I'm Yousuf Hossain, but you might know me better as Shanto. I bring over seven years of rich, hands-on experience in backend software development, currently focusing my efforts on pioneering projects at TubeOnAI. My work primarily revolves around developing robust backend applications that harness the power of Blockchain and AI, technologies that are reshaping our digital landscape.
 
-## Ethan Donovan - Web Developer based in Estonia
+**A Diverse Technical Portfolio**
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+My journey in tech has equipped me with a deep understanding and proficiency across a wide array of programming languages and frameworks. I specialize in TypeScript, NextJs, and Node.js, crafting scalable and efficient backend solutions that power today's dynamic applications. Furthermore, my expertise extends to PHP and Laravel, alongside a strong capability in WordPress plugin development, allowing me to tackle a diverse range of projects with confidence and finesse.
 
-## Skills and Expertise
+**Problem-Solving Mindset**
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+One of my core beliefs is that no problem is too complex to solve. With a persistent problem-solving mindset, I've navigated through numerous programming challenges, turning potential roadblocks into opportunities for innovation and growth. My approach is simple: I never say "impossible." This philosophy has not only propelled my career forward but also ensured the success and reliability of the projects I've undertaken.
 
-## Innovation and Problem-Solving
+**Continuous Learning: The Heart of Innovation**
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+The tech industry is ever-evolving, with new technologies and methodologies emerging at a rapid pace. I thrive on this dynamism, continually updating my skill set and embracing new technologies that can enhance the functionality and impact of the solutions I develop. This commitment to continuous learning ensures that my work remains at the cutting edge of technology, delivering value and innovation in every project.
 
-## Global Perspective, Local Impact
+**Client-Centric Development**
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Understanding and valuing the business and time of my clients is paramount. I approach every project with a focus on delivering solutions that not only meet the technical specifications but also drive business growth and efficiency. My aim is to develop applications that are not just technically sound but also align with the strategic goals of my clients, ensuring their success in the competitive digital marketplace.
 
-## Continuous Learning
+**Collaboration and Effective Communication**
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+I firmly believe that the success of a project lies not just in coding skills but also in effective collaboration and communication. Working closely with clients, designers, and fellow developers, I ensure clarity and alignment at every stage of the development process. This collaborative approach, combined with my commitment to clear and open communication, has been key to delivering successful projects and achieving client satisfaction.
 
-## Collaboration and Communication
+**Let’s Build Something Amazing Together**
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+If you're looking for a backend software developer who is deeply versed in Blockchain and AI, with a comprehensive skill set across various technologies, I'd love to hear from you. Whether you're looking to bring your digital ideas to life or elevate your online presence, I'm here to help you navigate the complexities of software development and create impactful solutions.
 
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+Together, let's explore the possibilities that technology holds and build something truly remarkable. Reach out to me for a collaboration, a consultation, or just a friendly chat about the exciting world of backend development. Let's embark on this technological journey together, creating innovative solutions that stand the test of time and technology.
