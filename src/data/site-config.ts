@@ -42,18 +42,18 @@ const siteConfig: SiteConfig = {
     subtitle: 'Fueling Innovation Through Expert Backend Solutions.',
     description: 'Welcome to my digital hub where innovation meets expertise! With a passion for crafting robust backend solutions, I specialize in architecting cutting-edge applications and dApps, empowering businesses to thrive in the digital realm. Let\'s collaborate and build the future together!',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'YH Shanto - Fueling Innovation Through Expert Backend Solutions.'
+        src: '/hero.jpg',
+        alt: 'Yaxis - Fueling Innovation Through Expert Backend Solutions.'
     },
     headerNavLinks: [
         {
             text: 'Home',
             href: '/'
         },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
+        // {
+        //     text: 'Projects',
+        //     href: '/projects'
+        // },
         {
             text: 'Blog',
             href: '/blog'
@@ -78,25 +78,25 @@ const siteConfig: SiteConfig = {
         }
     ],
     socialLinks: [
+        // {
+        //     text: 'Dribbble',
+        //     href: 'https://dribbble.com/'
+        // },
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'Facebook',
+            href: 'https://fb.me/yhshanto'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://twitter.com/yousufhshanto'
         }
     ],
     hero: {
         title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **YH Shanto**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "I'm **YH Shanto**, a backend developer at TubeOnAI, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of backend-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/yousuf-hossain-shanto'>GitHub</a> or follow me on <a href='https://twitter.com/yousufhshanto'>Twitter/X</a>.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/hero.jpg',
+            alt: 'A person sitting at a desk in a countryside restaurent down to a warm light'
         },
         actions: [
             {
