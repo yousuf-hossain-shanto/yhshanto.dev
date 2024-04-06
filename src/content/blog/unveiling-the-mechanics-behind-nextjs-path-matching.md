@@ -2,6 +2,7 @@
 title: Unveiling the Mechanics Behind Next.js Path Matching
 excerpt: Discover how Next.js's path matching and middleware features can revolutionize your web development process through dynamic routing and advanced utility functions.
 publishDate: 'April 6 2024'
+isFeatured: true
 tags:
   - Web
   - Js
@@ -10,11 +11,11 @@ seo:
   description: Dive deep into the magic of Next.js path matching with our expert guide. Discover the utility behind middleware and rewrites, and enhance your Next.js skills.
   keywords: Next.js, path matching, Next.js middleware, Next.js rewrites, web development, JavaScript, SEO
   image:
-    src: '/unveiling-the-mechanics-behind-nextjs-path-matching.png'
+    src: '/assets/unveiling-the-mechanics-behind-nextjs-path-matching/cover.png'
     alt: Next Js and brain icon with the post title on seashell colored background
 ---
 
-![Next Js and brain icon with the post title on seashell colored background](/unveiling-the-mechanics-behind-nextjs-path-matching.png)
+![Next Js and brain icon with the post title on seashell colored background](/assets/unveiling-the-mechanics-behind-nextjs-path-matching/cover.png)
 
 ---
 
@@ -90,7 +91,7 @@ export function GET(req: NextRequest) {
 
 This example demonstrates the practical application of `parse` and `tokensToRegexp`, showcasing their capability to dynamically match URL paths based on specified patterns.
 
-![Image 1: Result of src/app/api/hello/route.ts](/assets/unveiling-the-mechanics-behind-nextjs-path-matching/result.png)
+![Image 1: Result of src/app/api/hello/route.ts](/assets/unveiling-the-mechanics-behind-nextjs-path-matching/result.webp)
 
 This screenshot is about the result of the previous route handler.
 
