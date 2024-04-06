@@ -38,7 +38,7 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'YH Shanto',
+    title: 'Yaxis',
     subtitle: 'Fueling Innovation Through Expert Backend Solutions.',
     description: 'Welcome to my digital hub where innovation meets expertise! With a passion for crafting robust backend solutions, I specialize in architecting cutting-edge applications and dApps, empowering businesses to thrive in the digital realm. Let\'s collaborate and build the future together!',
     image: {
@@ -106,7 +106,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to Yaxis Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
