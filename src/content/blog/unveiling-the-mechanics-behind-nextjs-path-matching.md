@@ -7,7 +7,7 @@ tags:
   - Js
   - Next Js
 seo:
-  description: Dive deep into the workings of Next.js path matching with our expert guide. Discover the utility behind middleware and rewrites, and enhance your Next.js projects.
+  description: Dive deep into the magic of Next.js path matching with our expert guide. Discover the utility behind middleware and rewrites, and enhance your Next.js skills.
   keywords: Next.js, path matching, Next.js middleware, Next.js rewrites, web development, JavaScript, SEO
   image:
     src: '/unveiling-the-mechanics-behind-nextjs-path-matching.png'
