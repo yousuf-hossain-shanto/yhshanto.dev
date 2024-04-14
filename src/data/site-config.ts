@@ -39,42 +39,42 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Yaxis',
-    subtitle: 'Fueling Innovation Through Expert Backend Solutions.',
+    subtitle: 'YH Shanto\'s Tech Diary',
     description: 'Welcome to my digital hub where innovation meets expertise! With a passion for crafting robust backend solutions, I specialize in architecting cutting-edge applications and dApps, empowering businesses to thrive in the digital realm. Let\'s collaborate and build the future together!',
     image: {
         src: '/hero.jpg',
-        alt: 'Yaxis - Fueling Innovation Through Expert Backend Solutions.'
+        alt: 'Yaxis - YH Shanto\'s Tech Diary'
     },
     headerNavLinks: [
         {
             text: 'Home',
             href: '/'
         },
-        // {
-        //     text: 'Projects',
-        //     href: '/projects'
-        // },
+        {
+            text: 'Projects',
+            href: '/projects/'
+        },
         {
             text: 'Blog',
-            href: '/blog'
+            href: '/blog/'
         },
         {
             text: 'Tags',
-            href: '/tags'
+            href: '/tags/'
         }
     ],
     footerNavLinks: [
         {
             text: 'About',
-            href: '/about'
+            href: '/about/'
         },
         {
             text: 'Contact',
-            href: '/contact'
+            href: '/contact/'
         },
         {
             text: 'Terms',
-            href: '/terms'
+            href: '/terms/'
         }
     ],
     socialLinks: [

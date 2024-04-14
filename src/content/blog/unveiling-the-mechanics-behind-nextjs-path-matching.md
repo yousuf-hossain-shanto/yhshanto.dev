@@ -105,7 +105,7 @@ The journey through Next.js's path matching and middleware logic not only provid
 
 ### Join the Evolution: Stay Updated
 
-As the development of this multi-middleware feature progresses, plans are underway to release it as a public npm package, extending its benefits to the wider developer community. For those interested in staying abreast of this development and other insights into Next.js, subscribing to the newsletter linked in the [original article](https://yhshanto.dev/blog/unveiling-the-mechanics-behind-nextjs-path-matching) is highly recommended.
+As the development of this multi-middleware feature progresses, plans are underway to release it as a public npm package, extending its benefits to the wider developer community. For those interested in staying abreast of this development and other insights into Next.js, subscribing to the newsletter linked in the [original article](https://yhshanto.dev/blog/unveiling-the-mechanics-behind-nextjs-path-matching/) is highly recommended.
 
 ### Conclusion: Empowering Next.js Development with Advanced Routing and Middleware
 

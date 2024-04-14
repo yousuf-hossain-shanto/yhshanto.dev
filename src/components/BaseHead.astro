@@ -4,6 +4,7 @@ import '../styles/global.css';
 
 export type Props = {
     title?: string;
+    forceTitle?: string;
     description?: string;
     keywords?: string;
     image?: { src: string; alt?: string };
@@ -11,7 +12,7 @@ export type Props = {
 };
 
 const { description = '', keywords = '', image = siteConfig.image, pageType = 'website' } = Astro.props;
-const title = [Astro.props.title, siteConfig.title].filter(Boolean).join(' | ');
+const title = Astro.props.forceTitle?.length?Astro.props.forceTitle:[Astro.props.title, siteConfig.title].filter(Boolean).join(' | ');
 const resolvedImage = image?.src
     ? {
           src: new URL(image.src, Astro.site).toString(),
