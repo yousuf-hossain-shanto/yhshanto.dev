@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Yaxis',
     subtitle: 'YH Shanto\'s Tech Diary',
-    description: 'Welcome to my digital hub where innovation meets expertise! With a passion for crafting robust backend solutions, I specialize in architecting cutting-edge applications and dApps, empowering businesses to thrive in the digital realm. Let\'s collaborate and build the future together!',
+    description: 'Innovative backend solutions and dApps to empower your business. Let\'s build the future together!',
     image: {
         src: '/hero.jpg',
         alt: 'Yaxis - YH Shanto\'s Tech Diary'
@@ -101,7 +101,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Get in Touch',
-                href: '/contact'
+                href: '/contact/'
             }
         ]
     },

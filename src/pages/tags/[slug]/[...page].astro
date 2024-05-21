@@ -35,8 +35,9 @@ const currentTag = allTags.find((tag) => {
 
 <BaseLayout
     title={`Posts Tagged ${currentTag?.name}`}
-    description={`Explore a curated collection of blog posts under ${currentTag?.name}`}
-    image={{ src: '/hero.jpg', alt: 'The preview of the site' }}
+    description={`Discover insightful and informative blog posts about ${currentTag?.name}. Stay updated with the latest trends, tips, and stories in ${currentTag?.name}.`}
+    ogDescription={`Explore a collection of blog posts focused on ${currentTag?.name}. Dive into the latest discussions, tips, and trends in ${currentTag?.name}.`}
+    image={{ src: `https://dynamic-og-image-generator.vercel.app/api/generate?title=${encodeURIComponent(`Curated collection of blog posts under ${currentTag?.name}`)}&author=Yousuf+Hossain&websiteUrl=https%3A%2F%2Fyhshanto.dev&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F30166239&theme=github`, alt: 'A github themed image titled as a curated collection with yhshanto\'s avatar and website url' }}
     showHeader={false}
 >
     <h1 class="mb-12 text-2xl leading-tight font-serif italic sm:mb-16 sm:text-4xl">Posts Tagged "{currentTag?.name}"</h1>
