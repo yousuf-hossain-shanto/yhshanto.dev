@@ -40,7 +40,7 @@ export type SiteConfig = {
 const siteConfig: SiteConfig = {
     title: 'Yaxis',
     subtitle: 'YH Shanto\'s Tech Diary',
-    description: 'Innovative backend solutions and dApps to empower your business. Let\'s build the future together!',
+    description: 'Discover innovative backend solutions and dApps designed to empower your business. Let\'s collaborate to build cutting-edge applications and shape the future together!',
     image: {
         src: '/hero.jpg',
         alt: 'Yaxis - YH Shanto\'s Tech Diary'
