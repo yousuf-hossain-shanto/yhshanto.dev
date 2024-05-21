@@ -3,7 +3,9 @@ title: Get in touch
 seo:
   title: Contact
   description: Reach out via email or social media. Whether you have questions, feedback, or collaboration ideas, I'm here to help. Let's connect!
-  image: https://dynamic-og-image-generator.vercel.app/api/generate?title=Reach%20out%20via%20email%20or%20social%20media&author=Yousuf+Hossain&websiteUrl=https%3A%2F%2Fyhshanto.dev&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F30166239&theme=github
+  image:
+    src: https://dynamic-og-image-generator.vercel.app/api/generate?title=Reach%20out%20via%20email%20or%20social%20media&author=Yousuf+Hossain&websiteUrl=https%3A%2F%2Fyhshanto.dev&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F30166239&theme=github
+    alt: A github themed image asking for contact via email or social media with yhshanto's avatar and website url
 ---
 
 Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
